@@ -1,0 +1,23 @@
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\kursach.xlsx
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\Tovar.exe.config
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\Tovar.exe
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\Tovar.pdb
+C:\Users\Admin\Documents\CS\Tovar\Tovar\obj\Debug\Tovar.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\CS\Tovar\Tovar\obj\Debug\Tovar.exe
+C:\Users\Admin\Documents\CS\Tovar\Tovar\obj\Debug\Tovar.pdb
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\товар.txt
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Documents\CS\Tovar\Tovar\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Documents\CS\Tovar\Tovar\obj\Debug\Tovar.csproj.CopyComplete
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\товар.txt
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\kursach.xlsx
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\Tovar.exe.config
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\Tovar.exe
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\Tovar.pdb
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\obj\Debug\Tovar.exe
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\obj\Debug\Tovar.pdb
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\obj\Debug\Tovar.csprojAssemblyReference.cache
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\obj\Debug\Tovar.csproj.CoreCompileInputs.cache
+E:\Курсовой проект\Курсовой проэкт\Tovar\Tovar\obj\Debug\Tovar.csproj.CopyComplete
